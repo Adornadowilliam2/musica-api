@@ -7,9 +7,5 @@ export default function handler(req, res) {
       image:""
     }
   ]
-  res.status(200).json([
-    ok => true,
-    message => "Retrieve sucessfully",
-    data => musicaInfo
-  ]);
+  res.status(200).json(musicaInfo);
 }
