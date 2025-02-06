@@ -24,6 +24,18 @@ export default function handler(req, res) {
       name:"Whiplash",
       image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/whiplash.png?raw=true",
       music:"https://github.com/Adornadowilliam2/songs/blob/main/aespa%20%EC%97%90%EC%8A%A4%ED%8C%8C%20'Whiplash'%20MV%20%5BjWQx2f-CErU%5D.mp3?raw=true"
+    },
+    {
+      id:5,
+      name:"Antifragile",
+      image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/antifragile.png?raw=true",
+      music: "https://github.com/Adornadowilliam2/songs/blob/main/LE%20SSERAFIM%20(%EB%A5%B4%EC%84%B8%EB%9D%BC%ED%95%8C)%20'ANTIFRAGILE'%20OFFICIAL%20M%E2%A7%B8V%20%5Bpyf8cbqyfPs%5D.mp3?raw=true"
+    },
+    {
+      id:6,
+      name:"Perfect Night",
+      image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/perfectnight.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/songs/blob/main/LE SSERAFIM (르세라핌) 'ANTIFRAGILE' OFFICIAL M⧸V [pyf8cbqyfPs].mp3?raw=true"
     }
   ]
   res.status(200).json(musicaInfo);
