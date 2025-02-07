@@ -41,7 +41,7 @@ export default function handler(req, res) {
       id:7,
       name:"Geronimo",
       image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/geronimo-sheppard.jpeg?raw=true",
-      music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Andy%20Grammer%20-%20Fresh%20Eyes%20(Official%20Music%20Video)%20%5B5bgemCaaQkU%5D.mp3?raw=true"
+      music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Sheppard%20-%20Geronimo%20(Official%20Music%20Video)%20%5BUL_EXAyGCkw%5D.mp3?raw=true"
     },
     {
       id:8,
