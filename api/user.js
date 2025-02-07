@@ -36,6 +36,7 @@ export default function handler(req, res) {
       name:"Perfect Night",
       image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/perfectnight.png?raw=true",
       music:"https://github.com/Adornadowilliam2/songs/blob/main/LE SSERAFIM (르세라핌) 'Perfect Night' OFFICIAL M⧸V with OVERWATCH 2 (Choreography ver.) [oKBwWQI-IoI].mp3?raw=true"
+    }
   ]
   res.status(200).json(musicaInfo);
 }
