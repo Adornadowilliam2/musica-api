@@ -46,7 +46,7 @@ export default function handler(req, res) {
     {
       id:8,
       name:"Fresh eyes",
-      image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/geronimo-sheppard.jpeg?raw=true",
+      image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/fresheyes-andy.png?raw=true",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Andy%20Grammer%20-%20Fresh%20Eyes%20(Official%20Music%20Video)%20%5B5bgemCaaQkU%5D.mp3?raw=true"
     }
   ]
