@@ -36,6 +36,18 @@ export default function handler(req, res) {
       name:"Perfect Night",
       image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/perfectnight.png?raw=true",
       music:"https://github.com/Adornadowilliam2/songs/blob/main/LE%20SSERAFIM%20(%EB%A5%B4%EC%84%B8%EB%9D%BC%ED%95%8C)%20'Perfect%20Night'%20OFFICIAL%20M%E2%A7%B8V%20with%20OVERWATCH%202%20(Choreography%20ver.)%20%5BoKBwWQI-IoI%5D.mp3?raw=true"
+    },
+    {
+      id:7,
+      name:"Geronimo",
+      image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/geronimo-sheppard.jpeg?raw=true",
+      music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Andy%20Grammer%20-%20Fresh%20Eyes%20(Official%20Music%20Video)%20%5B5bgemCaaQkU%5D.mp3?raw=true"
+    },
+    {
+      id:8,
+      name:"Fresh eyes",
+      image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/geronimo-sheppard.jpeg?raw=true",
+      music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Andy%20Grammer%20-%20Fresh%20Eyes%20(Official%20Music%20Video)%20%5B5bgemCaaQkU%5D.mp3?raw=true"
     }
   ]
   res.status(200).json(musicaInfo);
