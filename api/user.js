@@ -47,7 +47,7 @@ export default function handler(req, res) {
       id:8,
       name:"Nobody",
       image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/nobody-onerepublic.png?raw=true",
-      music:"https://github.com/Adornadowilliam2/anime-song/blob/main/OneRepublic%20-%20Nobody%20(from%20Kaiju%20No.%208)%20%5BOfficial%20Lyric%20Video%5D%20%5BChukpOHfAI8%5D.mp3"
+      music:"https://github.com/Adornadowilliam2/anime-song/blob/main/OneRepublic%20-%20Nobody%20(from%20Kaiju%20No.%208)%20%5BOfficial%20Lyric%20Video%5D%20%5BChukpOHfAI8%5D.mp3?raw=true"
     },
     {
       id:9,
