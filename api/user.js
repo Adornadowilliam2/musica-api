@@ -52,7 +52,7 @@ export default function handler(req, res) {
     {
       id:9,
       name:"Geronimo",
-      image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/geronimo-sheppard.jpeg?raw=true",
+      image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/geronimo.png?raw=true",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Sheppard%20-%20Geronimo%20(Official%20Music%20Video)%20%5BUL_EXAyGCkw%5D.mp3?raw=true"
     },
     {
