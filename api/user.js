@@ -63,24 +63,30 @@ export default function handler(req, res) {
     },
     {
       id:10,
+      name:"Sining",
+      image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/sining.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/opm-song/blob/main/Dionela%20-%20sining%20ft.%20Jay%20R%20%5BLLqDfGFMJbk%5D.mp3?raw=true"
+    },
+    {
+      id:11,
       name:"Universe",
       image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/universe.png?raw=true",
       music:"https://github.com/Adornadowilliam2/anime-song/blob/main/Official%E9%AB%AD%E7%94%B7dism%20-%20Universe%EF%BC%BBOfficial%20Live%20Video%EF%BC%BD%20%5BRvwc5_PpLuY%5D.mp3?raw=true"
     },
     {
-      id:11,
+      id:12,
       name:"Geronimo",
       image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/geronimo.png?raw=true",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Sheppard%20-%20Geronimo%20(Official%20Music%20Video)%20%5BUL_EXAyGCkw%5D.mp3?raw=true"
     },
     {
-      id:12,
+      id:13,
       name:"Fresh eyes",
       image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/fresheyes-andy.png?raw=true",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Andy%20Grammer%20-%20Fresh%20Eyes%20(Official%20Music%20Video)%20%5B5bgemCaaQkU%5D.mp3?raw=true"
     },
     {
-      id:13,
+      id:14,
       name:"Run sakamoto run",
       image:'https://github.com/Adornadowilliam2/shuffle-react/blob/main/runsakamotorun-vaundy.png?raw=true',
       music:"https://github.com/Adornadowilliam2/anime-song/blob/main/%E8%B5%B0%E3%82%8CSAKAMOTO%20%E2%80%93%20RUN%20SAKAMOTO%20RUN%20%E2%80%93%20Opening%20theme%20to%20SAKAMOTO%20DAYS%20%5Buj1DkgXSR4w%5D.mp3?raw=true"
