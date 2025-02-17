@@ -103,6 +103,12 @@ export default function handler(req, res) {
       name: "Run sakamoto run",
       image: "https://github.com/Adornadowilliam2/shuffle-react/blob/main/runsakamotorun-vaundy.png?raw=true",
       music: "https://github.com/Adornadowilliam2/anime-song/blob/main/%E8%B5%B0%E3%82%8CSAKAMOTO%20%E2%80%93%20RUN%20SAKAMOTO%20RUN%20%E2%80%93%20Opening%20theme%20to%20SAKAMOTO%20DAYS%20%5Buj1DkgXSR4w%5D.mp3?raw=true"
+    },
+    {
+      id:18,
+      name:"Be a flower",
+      image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/be-a-flower.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/anime-song/blob/main/Be%20a%20flower%20%5BvoAu0YRWUNE%5D.mp3?raw=true"
     }
   ];
 
