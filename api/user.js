@@ -115,6 +115,12 @@ export default function handler(req, res) {
       name:"I really want to stay at your house",
       image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/cyberpunk.png?raw=true",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/CYBERPUNK%202077%20SOUNDTRACK%20-%20I%20REALLY%20WANT%20TO%20STAY%20AT%20YOUR%20HOUSE%20by%20Rosa%20Walton%20%26%20Hallie%20Coggins%20%5BgzbLODUb1sA%5D.mp3?raw=true"
+    },
+    {
+      id:20,
+      name:"I hate everything about you",
+      image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/ihateeverythingaboutyou.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/rock-song/blob/main/Three%20Days%20Grace%20-%20I%20Hate%20Everything%20About%20You%20(Official%20Video)%20%5Bd8ekz_CSBVg%5D.mp3?raw=true"
     }
   ];
 
