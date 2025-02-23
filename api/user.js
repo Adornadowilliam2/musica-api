@@ -168,7 +168,7 @@ export default function handler(req, res) {
     {
       id:28,
       name:"The fold",
-      image:"https://github.com/Adornadowilliam2/album/blob/main/ninjago.jpg",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/ninjago.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/LEGO%20NINJAGO%20%EF%BD%9C%20The%20Fold%20%EF%BD%9C%20The%20Weekend%20Whip%20(Official%20Theme%20Song)%20%5BIl7y6VwDrrw%5D.mp3?raw=true"
     },
     {
