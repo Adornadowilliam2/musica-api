@@ -140,7 +140,38 @@ export default function handler(req, res) {
       image:"https://github.com/Adornadowilliam2/album/blob/main/wihtout-any-words.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/anime-song/blob/main/SIX%20LOUNGE%E3%80%8C%E8%A8%80%E8%91%89%E3%81%AB%E3%81%9B%E3%81%9A%E3%81%A8%E3%82%82%E3%80%8DMusic%20Video%20%5BJP2m2eZ9aLc%5D.mp3?raw=true",
      
+    },
+    {
+      id:24,
+      name:"Never meant to Belong",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/never-meant.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/anime-song/blob/main/Never%20Meant%20To%20Belong%20-%20Bleach%20(Intermediate%20Tutorial)%20%5Bb9-Ci_D2n5c%5D.mp3?raw=true"
+    },
+    {
+      id:25,
+      name:"You found me",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/you-found-me.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/The%20Fray%20-%20You%20Found%20Me%20%5BjFg_8u87zT0%5D.mp3?raw=true"
+    },
+    {
+      id:26,
+      name:"Whatever you will you go",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/The_calling_wherever_you.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/The%20Calling%20-%20Wherever%20You%20Will%20Go%20(First%20Video-%20in%20Tijuana)%20%5BiAP9AF6DCu4%5D.mp3?raw=true"
+    },
+    {
+      id:27,
+      name:"Bad day",
+      image:"",
+      music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Daniel%20Powter%20-%20Bad%20Day%20(Official%20Music%20Video)%20%5BHD%5D%20%5BgH476CxJxfg%5D.mp3?raw=true"
+    },
+    {
+      id:28,
+      name:"The fold",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/bad-day.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/LEGO%20NINJAGO%20%EF%BD%9C%20The%20Fold%20%EF%BD%9C%20The%20Weekend%20Whip%20(Official%20Theme%20Song)%20%5BIl7y6VwDrrw%5D.mp3?raw=true"
     }
+
   ];
 
   res.status(200).json(musicInfo);
