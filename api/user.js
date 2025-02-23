@@ -162,15 +162,28 @@ export default function handler(req, res) {
     {
       id:27,
       name:"Bad day",
-      image:"",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/bad-day.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Daniel%20Powter%20-%20Bad%20Day%20(Official%20Music%20Video)%20%5BHD%5D%20%5BgH476CxJxfg%5D.mp3?raw=true"
     },
     {
       id:28,
       name:"The fold",
-      image:"https://github.com/Adornadowilliam2/album/blob/main/bad-day.jpg?raw=true",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/ninjago.jpg",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/LEGO%20NINJAGO%20%EF%BD%9C%20The%20Fold%20%EF%BD%9C%20The%20Weekend%20Whip%20(Official%20Theme%20Song)%20%5BIl7y6VwDrrw%5D.mp3?raw=true"
+    },
+    {
+      id:29,
+      name:"Life is highway",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/light-is-a-highway.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Rascal%20Flatts%20-%20Life%20Is%20a%20Highway%20(From%20%EF%BC%82Cars%EF%BC%82%E2%A7%B8Official%20Video)%20%5B5tXh_MfrMe0%5D.mp3?raw=true"
+    },
+    {
+      id:30,
+      name:"Complicated",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/complicated.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Avril%20Lavigne%20-%20Complicated%20(Official%20Video)%20%5B5NPBIwQyPWE%5D.mp3?raw=true"
     }
+
 
   ];
 
