@@ -121,6 +121,18 @@ export default function handler(req, res) {
       name:"I hate everything about you",
       image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/ihateeverythingaboutyou.png?raw=true",
       music:"https://github.com/Adornadowilliam2/rock-song/blob/main/Three%20Days%20Grace%20-%20I%20Hate%20Everything%20About%20You%20(Official%20Video)%20%5Bd8ekz_CSBVg%5D.mp3?raw=true"
+    },
+    {
+      id:21,
+      name:"Killing my love",
+      image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/killingmylove.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/riding-song/blob/main/Leslie%20Parrish%20-%20Killing%20My%20Love%20(Lyrics%20and%20Visualizer)%20%5B0V11r3GOfYk%5D.mp3?raw=true"
+    },
+    {
+      id:22,
+      name:"Haku",
+      image:"https://github.com/Adornadowilliam2/shuffle-react/blob/main/mono-no-aware.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/%E3%80%90%E3%83%8F%E3%82%AF%E3%80%82Cover%E4%BC%81%E7%94%BB%E3%80%91MONO%20NO%20AWARE%20%EF%BC%82%E3%81%8B%E3%82%80%E3%81%8B%E3%82%82%E3%81%97%E3%81%8B%E3%82%82%E3%81%AB%E3%81%A9%E3%82%82%E3%81%8B%E3%82%82%EF%BC%81%EF%BC%82%20%5BJ76S5q_ETfo%5D.mp3?raw=true"
     }
   ];
 
