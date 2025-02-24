@@ -83,7 +83,7 @@ export default function handler(req, res) {
     {
       id:14,
       name:"Goo goo dolls",
-      image:"https://github.com/Adornadowilliam2/album/blob/main/GGD_Iris_jpg.png?raw=true",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/goo-goo-iris.png",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Goo%20Goo%20Dolls%20-%20Iris%20(Lyrics)%20%5BnYrEL9ecAWA%5D.mp3?raw=true"
     },
     {
@@ -182,6 +182,12 @@ export default function handler(req, res) {
       name:"Complicated",
       image:"https://github.com/Adornadowilliam2/album/blob/main/complicated.png?raw=true",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Avril%20Lavigne%20-%20Complicated%20(Official%20Video)%20%5B5NPBIwQyPWE%5D.mp3?raw=true"
+    },
+    {
+      id:31,
+      name:"Mambo no 5",
+      imae:"https://github.com/Adornadowilliam2/album/blob/main/mambo-no-5.jpg",
+      music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/Lou%20Bega%20-%20Mambo%20No.%205%20(A%20Little%20Bit%20of...)%20%5BEK_LN3XEcnw%5D.mp3?raw=true"
     }
 
 
