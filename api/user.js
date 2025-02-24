@@ -186,7 +186,7 @@ export default function handler(req, res) {
     {
       id:31,
       name:"Mambo no 5",
-      imae:"https://github.com/Adornadowilliam2/album/blob/main/mambo-no-5.jpg",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/mambo-no-5.jpg",
       music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/Lou%20Bega%20-%20Mambo%20No.%205%20(A%20Little%20Bit%20of...)%20%5BEK_LN3XEcnw%5D.mp3?raw=true"
     }
 
