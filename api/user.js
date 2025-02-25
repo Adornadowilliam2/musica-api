@@ -83,7 +83,7 @@ export default function handler(req, res) {
     {
       id:14,
       name:"Goo goo dolls",
-      image:"https://github.com/Adornadowilliam2/album/blob/main/goo-goo-iris.png",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/goo-goo-iris.png?raw=true",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Goo%20Goo%20Dolls%20-%20Iris%20(Lyrics)%20%5BnYrEL9ecAWA%5D.mp3?raw=true"
     },
     {
