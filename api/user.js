@@ -188,6 +188,12 @@ export default function handler(req, res) {
       name:"Mambo no 5",
       image:"https://github.com/Adornadowilliam2/album/blob/main/mambo-no-5.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/Lou%20Bega%20-%20Mambo%20No.%205%20(A%20Little%20Bit%20of...)%20%5BEK_LN3XEcnw%5D.mp3?raw=true"
+    },
+    {
+      id:32,
+      name:"4:00 am",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/four_am.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/jap-song/blob/main/Taeko%20%C5%8Cnuki%20(%E5%A4%A7%E8%B2%AB%E5%A6%99%E5%AD%90)%20-%204_00%20AM%20%5BLyrics%20Kan%E2%A7%B8Rom%E2%A7%B8Eng%5D%20%5Bd76F_B8wxZ4%5D.mp3?raw=true"
     }
 
 
