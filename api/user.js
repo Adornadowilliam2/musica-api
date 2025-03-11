@@ -194,6 +194,30 @@ export default function handler(req, res) {
       name:"4:00 am",
       image:"https://github.com/Adornadowilliam2/album/blob/main/four_am.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/jap-song/blob/main/Taeko%20%C5%8Cnuki%20(%E5%A4%A7%E8%B2%AB%E5%A6%99%E5%AD%90)%20-%204_00%20AM%20%5BLyrics%20Kan%E2%A7%B8Rom%E2%A7%B8Eng%5D%20%5Bd76F_B8wxZ4%5D.mp3?raw=true"
+    },
+    {
+      id:33,
+      name:"Duvet",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/duvet.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/B%C3%B4a%20-%20%20Duvet%20(Official%20Video)%20%5BUoox9fpmDP0%5D.mp3?raw=true"
+    },
+    {
+      id:34,
+      name:"505",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/505.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/505%20%5BqU9mHegkTc4%5D.mp3?raw=true"
+    },
+    {
+      id:35,
+      name:"Glimpse of us",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/Joji_-_Glimpse_of_Us.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Joji%20-%20Glimpse%20Of%20Us%20%5B_x3UltzBxjw%5D.mp3?raw=true"
+    },
+    {
+      id:36,
+      name:"Rasputin",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/rasputin.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Boney%20M.%20-%20Rasputin%20(Sopot%20Festival%201979)%20%5B16y1AkoZkmQ%5D.mp3?raw=true"
     }
 
 
