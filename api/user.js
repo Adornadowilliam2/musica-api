@@ -5,13 +5,13 @@ export default function handler(req, res) {
     {
       id: 1,
       name: "Crazy",
-      image: "https://github.com/Adornadowilliam2/album/blob/main/crazy-lesserafim.png?raw=true",
+      image: "https://github.com/Adornadowilliam2/album/blob/main/crazy_lesserafim.png?raw=true",
       music: "https://github.com/Adornadowilliam2/kpop-song/blob/main/LE%20SSERAFIM%20(%EB%A5%B4%EC%84%B8%EB%9D%BC%ED%95%8C)%20'CRAZY'%20OFFICIAL%20MV%20%5Bn6B5gQXlB-0%5D.mp3?raw=true"
     },
     {
       id: 2,
       name: "1-800 hot n fun",
-      image: "https://github.com/Adornadowilliam2/album/blob/main/1800%20hot%20n%20fun.png?raw=true",
+      image: "https://github.com/Adornadowilliam2/album/blob/main/1800_hot_n_fun.png?raw=true",
       music: "https://github.com/Adornadowilliam2/kpop-song/blob/main/1-800-hot-n-fun%20%5BrGD5U8u1Dk0%5D.mp3?raw=true"
     },
     {
@@ -47,13 +47,13 @@ export default function handler(req, res) {
     {
       id: 8,
       name: "Strategy",
-      image: "https://github.com/Adornadowilliam2/album/blob/main/strategy-twice.png?raw=true",
+      image: "https://github.com/Adornadowilliam2/album/blob/main/strategy_twice.png?raw=true",
       music: "https://github.com/Adornadowilliam2/kpop-song/blob/main/TWICE%20%E2%80%9CStrategy%20(feat.%20Megan%20Thee%20Stallion)%E2%80%9D%20M%E2%A7%B8V%20%5BSz_wWzgh-vQ%5D.mp3?raw=true"
     },
     {
       id: 9,
       name: "Nobody",
-      image: "https://github.com/Adornadowilliam2/album/blob/main/nobody-onerepublic.png?raw=true",
+      image: "https://github.com/Adornadowilliam2/album/blob/main/nobody_onerepublic.png?raw=true",
       music: "https://github.com/Adornadowilliam2/anime-song/blob/main/OneRepublic%20-%20Nobody%20(from%20Kaiju%20No.%208)%20%5BOfficial%20Lyric%20Video%5D%20%5BChukpOHfAI8%5D.mp3?raw=true"
     },
     {
@@ -83,7 +83,7 @@ export default function handler(req, res) {
     {
       id:14,
       name:"Goo goo dolls",
-      image:"https://github.com/Adornadowilliam2/album/blob/main/goo-goo-iris.png?raw=true",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/goo_goo_iris.png?raw=true",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Goo%20Goo%20Dolls%20-%20Iris%20(Lyrics)%20%5BnYrEL9ecAWA%5D.mp3?raw=true"
     },
     {
@@ -95,19 +95,19 @@ export default function handler(req, res) {
     {
       id: 16,
       name: "Fresh eyes",
-      image: "https://github.com/Adornadowilliam2/album/blob/main/fresheyes-andy.png?raw=true",
+      image: "https://github.com/Adornadowilliam2/album/blob/main/fresheyes_andy.png?raw=true",
       music: "https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Andy%20Grammer%20-%20Fresh%20Eyes%20(Official%20Music%20Video)%20%5B5bgemCaaQkU%5D.mp3?raw=true"
     },
     {
       id: 17,
       name: "Run sakamoto run",
-      image: "https://github.com/Adornadowilliam2/album/blob/main/runsakamotorun-vaundy.png?raw=true",
+      image: "https://github.com/Adornadowilliam2/album/blob/main/runsakamotorun_vaundy.png?raw=true",
       music: "https://github.com/Adornadowilliam2/anime-song/blob/main/%E8%B5%B0%E3%82%8CSAKAMOTO%20%E2%80%93%20RUN%20SAKAMOTO%20RUN%20%E2%80%93%20Opening%20theme%20to%20SAKAMOTO%20DAYS%20%5Buj1DkgXSR4w%5D.mp3?raw=true"
     },
     {
       id:18,
       name:"Be a flower",
-      image:"https://github.com/Adornadowilliam2/album/blob/main/be-a-flower.jpg?raw=true",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/be_a_flower.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/anime-song/blob/main/Be%20a%20flower%20%5BvoAu0YRWUNE%5D.mp3?raw=true"
     },
     {
@@ -131,38 +131,38 @@ export default function handler(req, res) {
     {
       id:22,
       name:"Haku",
-      image:"https://github.com/Adornadowilliam2/album/blob/main/mono-no-aware.jpg?raw=true",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/mono_no_aware.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/%E3%80%90%E3%83%8F%E3%82%AF%E3%80%82Cover%E4%BC%81%E7%94%BB%E3%80%91MONO%20NO%20AWARE%20%EF%BC%82%E3%81%8B%E3%82%80%E3%81%8B%E3%82%82%E3%81%97%E3%81%8B%E3%82%82%E3%81%AB%E3%81%A9%E3%82%82%E3%81%8B%E3%82%82%EF%BC%81%EF%BC%82%20%5BJ76S5q_ETfo%5D.mp3?raw=true"
     },
     {
       id:23,
       name:"Without any words",
-      image:"https://github.com/Adornadowilliam2/album/blob/main/wihtout-any-words.jpg?raw=true",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/wihtout_any_words.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/anime-song/blob/main/SIX%20LOUNGE%E3%80%8C%E8%A8%80%E8%91%89%E3%81%AB%E3%81%9B%E3%81%9A%E3%81%A8%E3%82%82%E3%80%8DMusic%20Video%20%5BJP2m2eZ9aLc%5D.mp3?raw=true",
      
     },
     {
       id:24,
       name:"Never meant to Belong",
-      image:"https://github.com/Adornadowilliam2/album/blob/main/never-meant.jpg?raw=true",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/never_meant.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/anime-song/blob/main/Never%20Meant%20To%20Belong%20-%20Bleach%20(Intermediate%20Tutorial)%20%5Bb9-Ci_D2n5c%5D.mp3?raw=true"
     },
     {
       id:25,
       name:"You found me",
-      image:"https://github.com/Adornadowilliam2/album/blob/main/you-found-me.jpg?raw=true",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/you_found_me.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/The%20Fray%20-%20You%20Found%20Me%20%5BjFg_8u87zT0%5D.mp3?raw=true"
     },
     {
       id:26,
       name:"Whatever you will you go",
-      image:"https://github.com/Adornadowilliam2/album/blob/main/The_calling_wherever_you.jpg?raw=true",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/the_calling_wherever_you.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/The%20Calling%20-%20Wherever%20You%20Will%20Go%20(First%20Video-%20in%20Tijuana)%20%5BiAP9AF6DCu4%5D.mp3?raw=true"
     },
     {
       id:27,
       name:"Bad day",
-      image:"https://github.com/Adornadowilliam2/album/blob/main/bad-day.jpg?raw=true",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/bad_day.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Daniel%20Powter%20-%20Bad%20Day%20(Official%20Music%20Video)%20%5BHD%5D%20%5BgH476CxJxfg%5D.mp3?raw=true"
     },
     {
@@ -174,7 +174,7 @@ export default function handler(req, res) {
     {
       id:29,
       name:"Life is highway",
-      image:"https://github.com/Adornadowilliam2/album/blob/main/light-is-a-highway.jpg?raw=true",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/light_is_a_highway.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Rascal%20Flatts%20-%20Life%20Is%20a%20Highway%20(From%20%EF%BC%82Cars%EF%BC%82%E2%A7%B8Official%20Video)%20%5B5tXh_MfrMe0%5D.mp3?raw=true"
     },
     {
@@ -186,7 +186,7 @@ export default function handler(req, res) {
     {
       id:31,
       name:"Mambo no 5",
-      image:"https://github.com/Adornadowilliam2/album/blob/main/mambo-no-5.jpg?raw=true",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/mambo_no_5.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/Lou%20Bega%20-%20Mambo%20No.%205%20(A%20Little%20Bit%20of...)%20%5BEK_LN3XEcnw%5D.mp3?raw=true"
     },
     {
@@ -210,7 +210,7 @@ export default function handler(req, res) {
     {
       id:35,
       name:"Glimpse of us",
-      image:"https://github.com/Adornadowilliam2/album/blob/main/Joji_-_Glimpse_of_Us.png?raw=true",
+      image:"hhttps://github.com/Adornadowilliam2/album/blob/main/joji_glimpse_of_us.png?raw=true",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Joji%20-%20Glimpse%20Of%20Us%20%5B_x3UltzBxjw%5D.mp3?raw=true"
     },
     {
