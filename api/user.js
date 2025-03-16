@@ -229,13 +229,13 @@ export default function handler(req, res) {
       id:38,
       name:"Luther",
       image:"https://github.com/Adornadowilliam2/album/blob/main/luther.jpg?raw=true",
-      music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/d4vd - Feel It (Official Music Video) [vZi8ET9k11g].mp3?raw=true"
+      music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/Kendrick%20Lamar%20-%20luther%20(Official%20Audio)%20%5BHfWLgELllZs%5D.mp3?raw=true"
     },
     {
       id:39,
       name:"All the stars",
       image:"https://github.com/Adornadowilliam2/album/blob/main/all_the_stars.jpg?raw=true",
-      music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/d4vd - Feel It (Official Music Video) [vZi8ET9k11g].mp3?raw=true"
+      music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/Kendrick%20Lamar%2C%20SZA%20-%20All%20The%20Stars%20%5BJQbjS0_ZfJ0%5D.mp3?raw=true"
     }
 
 
