@@ -210,7 +210,7 @@ export default function handler(req, res) {
     {
       id:35,
       name:"Glimpse of us",
-      image:"hhttps://github.com/Adornadowilliam2/album/blob/main/glimpse_of_us.png?raw=true",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/glimpse_of_us.png?raw=true",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Joji%20-%20Glimpse%20Of%20Us%20%5B_x3UltzBxjw%5D.mp3?raw=true"
     },
     {
