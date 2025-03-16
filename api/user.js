@@ -218,6 +218,24 @@ export default function handler(req, res) {
       name:"Rasputin",
       image:"https://github.com/Adornadowilliam2/album/blob/main/rasputin.png?raw=true",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Boney%20M.%20-%20Rasputin%20(Sopot%20Festival%201979)%20%5B16y1AkoZkmQ%5D.mp3?raw=true"
+    },
+    {
+      id:37,
+      name:"Feel it",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/feel_it.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/d4vd%20-%20Feel%20It%20(Official%20Music%20Video)%20%5BvZi8ET9k11g%5D.mp3?raw=true"
+    },
+    {
+      id:38,
+      name:"Luther",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/feel_it.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/d4vd - Feel It (Official Music Video) [vZi8ET9k11g].mp3?raw=true"
+    },
+    {
+      id:39,
+      name:"All the stars",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/feel_it.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/d4vd - Feel It (Official Music Video) [vZi8ET9k11g].mp3?raw=true"
     }
 
 
