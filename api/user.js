@@ -236,6 +236,25 @@ export default function handler(req, res) {
       name:"All the stars",
       image:"https://github.com/Adornadowilliam2/album/blob/main/all_the_stars.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/Kendrick%20Lamar%2C%20SZA%20-%20All%20The%20Stars%20%5BJQbjS0_ZfJ0%5D.mp3?raw=true"
+    },
+    {
+      id:40,
+      name:"Fly",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/fly.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/Spectrum%20%5B%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E3%83%A9%E3%83%A0%5D%20%20-%20%20F-L-Y%20(1980)%20%5BDopBUv0ZV2w%5D.mp3?raw=true"
+    },
+    {
+      id:41,
+      name:"Wonder of you",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/wou.png?raw=true",
+      music:'https://github.com/Adornadowilliam2/vibing-song/blob/main/Elvis%20Presley%20-%20The%20Wonder%20of%20You%20(Official%20Audio)%20%5BF5eEvfOyb7k%5D.mp3?raw=true'
+    },
+    {
+      id:42,
+      name:"Stand up be strong",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/stand_up_be_strong.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/STAND%20UP%20BE%20STRONG%20(Complete%20Version)%20-%20BLEACH%20Movie%203%EF%BC%9A%20Fade%20To%20Black%20OST%20%5B4ZSp8CJLZg8%5D.mp3?raw=true"
+
     }
 
 
