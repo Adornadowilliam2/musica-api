@@ -255,6 +255,12 @@ export default function handler(req, res) {
       image:"https://github.com/Adornadowilliam2/album/blob/main/stand_up_be_strong.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/STAND%20UP%20BE%20STRONG%20(Complete%20Version)%20-%20BLEACH%20Movie%203%EF%BC%9A%20Fade%20To%20Black%20OST%20%5B4ZSp8CJLZg8%5D.mp3?raw=true"
 
+    },
+    {
+      id:43,
+      name:"Treachery",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/treachery.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/anime-song/blob/main/Treachery%20%5B0kYq-E8BJgU%5D.mp3?raw=true"
     }
 
 
