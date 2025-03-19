@@ -271,7 +271,7 @@ export default function handler(req, res) {
     {
       id:45,
       name:"Dark Aria",
-      image:"https://github.com/Adornadowilliam2/anime-song/blob/main/SawanoHiroyuki%5BnZk%5D%EF%BC%9AXAI%20%E3%80%8EDARK%20ARIA%20%EF%BC%9CLV2%EF%BC%9E%E3%80%8F%20Music%20Video%20%5BZGXOWPZ64DA%5D.mp3?raw=true",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/dark.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/anime-song/blob/main/SawanoHiroyuki%5BnZk%5D%EF%BC%9AXAI%20%E3%80%8EDARK%20ARIA%20%EF%BC%9CLV2%EF%BC%9E%E3%80%8F%20Music%20Video%20%5BZGXOWPZ64DA%5D.mp3?raw=true"
     }
 
