@@ -285,6 +285,12 @@ export default function handler(req, res) {
       name:"Shots",
       image:"https://github.com/Adornadowilliam2/album/blob/main/shots.png?raw=true",
       music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/Imagine%20Dragons%20-%20Shots%20%5BqQrgto184Tk%5D.mp3?raw=true"
+    },
+    {
+      id:48,
+      name:"Trap Royalty",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/trap_royalty.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/Fatty%20Wap%20-%20Trap%20Queen%20(Royalty%20Remix)%20TikTok%20trap%20royalty%20orchestra%20%5BauhVPOuOaKc%5D.mp3?raw=true"
     }
 
 
