@@ -273,6 +273,18 @@ export default function handler(req, res) {
       name:"Dark Aria",
       image:"https://github.com/Adornadowilliam2/album/blob/main/dark.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/anime-song/blob/main/SawanoHiroyuki%5BnZk%5D%EF%BC%9AXAI%20%E3%80%8EDARK%20ARIA%20%EF%BC%9CLV2%EF%BC%9E%E3%80%8F%20Music%20Video%20%5BZGXOWPZ64DA%5D.mp3?raw=true"
+    },
+    {
+      id:46,
+      name:"Makes me wonder",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/makes_me_wonder.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/Maroon%205%20-%20Makes%20Me%20Wonder%20(Official%20Music%20Video)%20%5BsAebYQgy4n4%5D.mp3?raw=true"
+    },
+    {
+      id:47,
+      name:"Shots",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/shots.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/Imagine%20Dragons%20-%20Shots%20%5BqQrgto184Tk%5D.mp3?raw=true"
     }
 
 
