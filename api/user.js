@@ -291,6 +291,18 @@ export default function handler(req, res) {
       name:"Trap Royalty",
       image:"https://github.com/Adornadowilliam2/album/blob/main/trap_royalty.png?raw=true",
       music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/Fatty%20Wap%20-%20Trap%20Queen%20(Royalty%20Remix)%20TikTok%20trap%20royalty%20orchestra%20%5BauhVPOuOaKc%5D.mp3?raw=true"
+    },
+    {
+      id:49,
+      name:"Happy Xmas (War is over)",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/war_is_over.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/jap-song/blob/main/Happy%20Xmas%20(War%20Is%20Over)%20%5BflA5ndOyZbI%5D.mp3?raw=true"
+    },
+    {
+      id:50,
+      name:"Rubble",
+      image:'https://github.com/Adornadowilliam2/album/blob/main/mauler.jpg?raw=true',
+      music:"https://github.com/Adornadowilliam2/jap-song/blob/main/Run%20The%20Jewels%20-%20Rubble%20Kings%20Theme%20(Dynamite)%20%5B0XboRkCEqKo%5D.mp3?raw=true"
     }
 
 
