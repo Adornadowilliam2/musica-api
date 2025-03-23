@@ -303,6 +303,13 @@ export default function handler(req, res) {
       name:"Rubble",
       image:'https://github.com/Adornadowilliam2/album/blob/main/mauler.jpg?raw=true',
       music:"https://github.com/Adornadowilliam2/jap-song/blob/main/Run%20The%20Jewels%20-%20Rubble%20Kings%20Theme%20(Dynamite)%20%5B0XboRkCEqKo%5D.mp3?raw=true"
+    },
+
+    {
+      id:51,
+      name:'Timeless  ',
+      image:"https://github.com/Adornadowilliam2/album/blob/main/timeless.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/jap-song/blob/main/The%20Weeknd%2C%20Playboi%20Carti%20-%20Timeless%20%5B5EpyN_6dqyk%5D.mp3?raw=true"
     }
 
 
