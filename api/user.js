@@ -310,6 +310,18 @@ export default function handler(req, res) {
       name:'Timeless  ',
       image:"https://github.com/Adornadowilliam2/album/blob/main/timeless.png?raw=true",
       music:"https://github.com/Adornadowilliam2/jap-song/blob/main/The%20Weeknd%2C%20Playboi%20Carti%20-%20Timeless%20%5B5EpyN_6dqyk%5D.mp3?raw=true"
+    },
+    {
+      id:52,
+      name:"Do I wanna Know?",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/do_i_wanna_know.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/jap-song/blob/main/Arctic%20Monkeys%20-%20Do%20I%20Wanna%20Know%EF%BC%9F%20(Official%20Video)%20%5BbpOSxM0rNPM%5D.mp3?raw=true"
+    },
+    {
+      id:53,
+      name:"No. 1 Party Anthem",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/no_1_party_anthem.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/jap-song/blob/main/No.%201%20Party%20Anthem%20%5BmGUjVbsYG6E%5D.mp3?raw=true"
     }
 
 
