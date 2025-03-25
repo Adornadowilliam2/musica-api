@@ -322,6 +322,24 @@ export default function handler(req, res) {
       name:"No. 1 Party Anthem",
       image:"https://github.com/Adornadowilliam2/album/blob/main/no_1_party_anthem.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/jap-song/blob/main/No.%201%20Party%20Anthem%20%5BmGUjVbsYG6E%5D.mp3?raw=true"
+    },
+    {
+      id:54,
+      name:"Ransom",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/ransom.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/riding-song/blob/main/Ransom%20%5BAALQwjjk85Y%5D.mp3?raw=true"
+    },
+    {
+      id:55,
+      name:"Shibuya ost",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/shibuya.jpeg?raw=true",
+      music:"https://github.com/Adornadowilliam2/riding-song/blob/main/Jujutsu%20Kaisen%20Season%202%20OST%20-%20Malevolent%20Shrine%20(Sukuna%20vs%20Mahoraga)%20%5Bjm5rqq_SP8Q%5D.mp3?raw=true"
+    },
+    {
+      id:56,
+      name:"Purle hollow ost",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/hollowpurple.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/riding-song/blob/main/Hollow%20Purple%20%5BzcQvAy3oi0E%5D.mp3?raw=true"
     }
 
 
