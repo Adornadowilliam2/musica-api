@@ -352,6 +352,12 @@ export default function handler(req, res) {
       name:"Swim",
       image:"https://github.com/Adornadowilliam2/album/blob/main/swim.png?raw=true",
       music:"https://github.com/Adornadowilliam2/riding-song/blob/main/Chase%20Atlantic%20-%20SWIM%20(Official%20Music%20Video)%20%5BmC9v5FaLt84%5D.mp3?raw=true"
+    },
+    {
+      id:59,
+      name:"Highest",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/highest.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/anime-song/blob/main/HIGHEST%20%5BT9MLjIsfUOU%5D.mp3?raw=true"
     }
 
 
