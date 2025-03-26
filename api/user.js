@@ -340,6 +340,12 @@ export default function handler(req, res) {
       name:"Purle hollow ost",
       image:"https://github.com/Adornadowilliam2/album/blob/main/hollowpurple.png?raw=true",
       music:"https://github.com/Adornadowilliam2/riding-song/blob/main/Hollow%20Purple%20%5BzcQvAy3oi0E%5D.mp3?raw=true"
+    },
+    {
+      id:57,
+      name:'Six days',
+      image:"https://github.com/Adornadowilliam2/album/blob/main/six_days.jpg?raw=true",
+      music:'https://github.com/Adornadowilliam2/riding-song/blob/main/Six%20days%20-%20Tokyo%20drift%20soundtrack%20%5BeCHN32-ksoA%5D.mp3?raw=true'
     }
 
 
