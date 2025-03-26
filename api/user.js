@@ -346,6 +346,12 @@ export default function handler(req, res) {
       name:'Six days',
       image:"https://github.com/Adornadowilliam2/album/blob/main/six_days.jpg?raw=true",
       music:'https://github.com/Adornadowilliam2/riding-song/blob/main/Six%20days%20-%20Tokyo%20drift%20soundtrack%20%5BeCHN32-ksoA%5D.mp3?raw=true'
+    },
+    {
+      id:58,
+      name:"Swim",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/swim.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/riding-song/blob/main/Chase%20Atlantic%20-%20SWIM%20(Official%20Music%20Video)%20%5BmC9v5FaLt84%5D.mp3?raw=true"
     }
 
 
