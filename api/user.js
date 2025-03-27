@@ -358,6 +358,12 @@ export default function handler(req, res) {
       name:"Highest",
       image:"https://github.com/Adornadowilliam2/album/blob/main/highest.png?raw=true",
       music:"https://github.com/Adornadowilliam2/anime-song/blob/main/HIGHEST%20%5BT9MLjIsfUOU%5D.mp3?raw=true"
+    },
+    {
+      id:60,
+      name:"Tom tom",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/tomtom.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/anime-song/blob/main/Holy%20Fuck%20-%20%EF%BC%82Tom%20Tom%EF%BC%82%20(Official%20Music%20Video)%20%5BNfGw8crLcDw%5D.mp3?raw=true"
     }
 
 
