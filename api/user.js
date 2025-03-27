@@ -364,6 +364,12 @@ export default function handler(req, res) {
       name:"Tom tom",
       image:"https://github.com/Adornadowilliam2/album/blob/main/tomtom.png?raw=true",
       music:"https://github.com/Adornadowilliam2/anime-song/blob/main/Holy%20Fuck%20-%20%EF%BC%82Tom%20Tom%EF%BC%82%20(Official%20Music%20Video)%20%5BNfGw8crLcDw%5D.mp3?raw=true"
+    },
+    {
+      id:61,
+      name:"Lebron favorite song",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/lebron.jpg?raw=true",
+      music:'https://github.com/Adornadowilliam2/riding-song/blob/main/Kamisama%20Hajimemashita%20%5BCpDpUewAgpE%5D.mp3?raw=true'
     }
 
 
