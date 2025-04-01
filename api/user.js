@@ -370,6 +370,12 @@ export default function handler(req, res) {
       name:"Lebron favorite song",
       image:"https://github.com/Adornadowilliam2/album/blob/main/lebron.jpg?raw=true",
       music:'https://github.com/Adornadowilliam2/riding-song/blob/main/Kamisama%20Hajimemashita%20%5BCpDpUewAgpE%5D.mp3?raw=true'
+    },
+    {
+      id:62,
+      name:"All coutries in the world",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/animamaniacs.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/riding-song/blob/main/Animaniacs%20SING-ALONG%20%F0%9F%8E%A4%20%EF%BD%9C%20Yakko%E2%80%99s%20World%20%EF%BD%9C%20WB%20Kids%20%5BV1508wboZXk%5D.mp3?raw=true"
     }
 
 
