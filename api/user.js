@@ -382,6 +382,12 @@ export default function handler(req, res) {
       name:"You lied in April",
       image:"https://github.com/Adornadowilliam2/album/blob/main/youliedinapril.png?raw=true",
       music:"https://github.com/Adornadowilliam2/anime-song/blob/main/Hikaru%20Nara%20-%20Goose%20House%20%5BRomaji%2C%20Espa%C3%B1ol%2C%20English%2C%20Color%20Coded%5D%20%5BcWtgGTCAjYY%5D.mp3?raw=true"
+    },
+    {
+      id:64,
+      name:"Aishite",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/ado.png?raw=true",
+      music:'https://github.com/Adornadowilliam2/ado-song/blob/main/Aishite%20Aishite%20Aishite%20%5BU8BlNEKq0r8%5D.mp3?raw=true'
     }
 
 
