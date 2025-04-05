@@ -388,6 +388,12 @@ export default function handler(req, res) {
       name:"Aishite",
       image:"https://github.com/Adornadowilliam2/album/blob/main/ado.png?raw=true",
       music:'https://github.com/Adornadowilliam2/ado-song/blob/main/Aishite%20Aishite%20Aishite%20%5BU8BlNEKq0r8%5D.mp3?raw=true'
+    },
+    {
+      id:65,
+      name:"Show",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/show.png?raw=true",
+      music:'https://github.com/Adornadowilliam2/ado-song/blob/main/%E3%80%90Ado%E3%80%91%20%E5%94%B1%20%5BpgXpM4l_MwI%5D.mp3?raw=true'
     }
 
 
