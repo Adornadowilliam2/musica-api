@@ -394,6 +394,12 @@ export default function handler(req, res) {
       name:"Show",
       image:"https://github.com/Adornadowilliam2/album/blob/main/show.png?raw=true",
       music:'https://github.com/Adornadowilliam2/ado-song/blob/main/%E3%80%90Ado%E3%80%91%20%E5%94%B1%20%5BpgXpM4l_MwI%5D.mp3?raw=true'
+    },
+    {
+      id:66,
+      name:"Sorairo days",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/tenggentoppa.png?raw=true",
+      music: "https://github.com/Adornadowilliam2/anime-song/blob/main/Shoko%20Nakagawa%20-%20Sorairo%20Days%20%5BPKRUKalbx3s%5D.mp3?raw=true"
     }
 
 
