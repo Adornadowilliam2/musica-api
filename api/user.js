@@ -400,6 +400,12 @@ export default function handler(req, res) {
       name:"Sorairo days",
       image:"https://github.com/Adornadowilliam2/album/blob/main/tenggentoppa.png?raw=true",
       music: "https://github.com/Adornadowilliam2/anime-song/blob/main/Shoko%20Nakagawa%20-%20Sorairo%20Days%20%5BPKRUKalbx3s%5D.mp3?raw=true"
+    },
+    {
+      id:67,
+      name:"My way",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/myway.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Frank%20Sinatra%20-%20My%20Way%20(Lyrics)%20%5B6pcwq2usV7Y%5D.mp3?raw=true"
     }
 
 
