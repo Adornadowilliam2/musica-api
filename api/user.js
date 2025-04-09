@@ -406,6 +406,24 @@ export default function handler(req, res) {
       name:"My way",
       image:"https://github.com/Adornadowilliam2/album/blob/main/myway.png?raw=true",
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Frank%20Sinatra%20-%20My%20Way%20(Lyrics)%20%5B6pcwq2usV7Y%5D.mp3?raw=true"
+    },
+    {
+      id:68,
+      name:'New genesis',
+      image:"https://github.com/Adornadowilliam2/album/blob/main/ado.png?raw=true",
+      music:'https://github.com/Adornadowilliam2/ado-song/blob/main/Ado%20-%20New%20Genesis%20(UTA%20from%20ONE%20PIECE%20FILM%20RED)%20%5B6lnnPnr_0SU%5D.mp3?raw=true'
+    },
+    {
+      id: 69,
+      name:'Tot Musica',
+      image:"https://github.com/Adornadowilliam2/album/blob/main/ado.png?raw=true",
+      music:'https://github.com/Adornadowilliam2/ado-song/blob/main/%E3%80%90Ado%E3%80%91Tot%20Musica%20-%20LIVE%20%E3%80%90Best%20Artist%202023.12.02%E3%80%91%20%5BkCTgRjhdrs0%5D.mp3?raw=true'
+    },
+    {
+      id:69,
+      name:'Backlight',
+      image:"https://github.com/Adornadowilliam2/album/blob/main/ado.png?raw=true",
+      music:'https://github.com/Adornadowilliam2/ado-song/blob/main/%E3%80%90Ado%E3%80%91%E9%80%86%E5%85%89%EF%BC%88%E3%82%A6%E3%82%BF%20from%20ONE%20PIECE%20FILM%20RED%EF%BC%89%20%5Bgt-v_YCkaMY%5D.mp3?raw=true'
     }
 
 
