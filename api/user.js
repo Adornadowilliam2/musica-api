@@ -424,6 +424,12 @@ export default function handler(req, res) {
       name:'Backlight',
       image:"https://github.com/Adornadowilliam2/album/blob/main/ado.png?raw=true",
       music:'https://github.com/Adornadowilliam2/ado-song/blob/main/%E3%80%90Ado%E3%80%91%E9%80%86%E5%85%89%EF%BC%88%E3%82%A6%E3%82%BF%20from%20ONE%20PIECE%20FILM%20RED%EF%BC%89%20%5Bgt-v_YCkaMY%5D.mp3?raw=true'
+    },
+    {
+      id:70,
+      name:'Weekend for the weekend',
+      image:'https://github.com/Adornadowilliam2/album/blob/main/weekend.jpg?raw=true',
+      music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Loverboy%20-%20Working%20for%20the%20Weekend%20(Official%20Remastered%20HD%20Video)%20%5BdsgBpsNPQ50%5D.mp3?raw=true"
     }
 
 
