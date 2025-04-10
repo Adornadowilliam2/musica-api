@@ -427,9 +427,15 @@ export default function handler(req, res) {
     },
     {
       id:70,
-      name:'Weekend for the weekend',
+      name:'Working for the weekend',
       image:'https://github.com/Adornadowilliam2/album/blob/main/weekend.jpg?raw=true',
       music:"https://github.com/Adornadowilliam2/nostalgic-song/blob/main/Loverboy%20-%20Working%20for%20the%20Weekend%20(Official%20Remastered%20HD%20Video)%20%5BdsgBpsNPQ50%5D.mp3?raw=true"
+    },
+    {
+      id:71,
+      name:"Knock me off my feet",
+      image:"https://github.com/Adornadowilliam2/album/blob/main/knockoffmyfeet.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/SOAK%20-%20Knock%20Me%20Off%20My%20Feet%20%5Bfzamt-yKb4A%5D.mp3?raw=true"
     }
 
 
