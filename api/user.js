@@ -436,6 +436,18 @@ export default function handler(req, res) {
       name:"Knock me off my feet",
       image:"https://github.com/Adornadowilliam2/album/blob/main/knockoffmyfeet.png?raw=true",
       music:"https://github.com/Adornadowilliam2/vibing-song/blob/main/SOAK%20-%20Knock%20Me%20Off%20My%20Feet%20%5Bfzamt-yKb4A%5D.mp3?raw=true"
+    },
+    {
+      id:72,
+      name:'Again',
+      image:"https://github.com/Adornadowilliam2/album2/blob/main/again.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/anime-songs/blob/main/Again%20%5B0NJCpJZ19n8%5D.mp3?raw=true"
+    },
+    {
+      id:73,
+      name:'Angel thesis',
+      image:"https://github.com/Adornadowilliam2/album2/blob/main/anglethesis.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/anime-songs/blob/main/%E3%80%8C%E6%AE%8B%E9%85%B7%E3%81%AA%E5%A4%A9%E4%BD%BF%E3%81%AE%E3%83%86%E3%83%BC%E3%82%BC%E3%80%8DMUSIC%20VIDEO%EF%BC%88HDver.%EF%BC%89%E2%A7%B8Zankoku%20na%20Tenshi%20no%20Te-ze%E2%80%9CThe%20Cruel%20Angel's%20Thesis%E2%80%9D%20%5Bo6wtDPVkKqI%5D.mp3?raw=true"
     }
 
 
