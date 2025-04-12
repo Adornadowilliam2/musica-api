@@ -448,6 +448,12 @@ export default function handler(req, res) {
       name:'Angel thesis',
       image:"https://github.com/Adornadowilliam2/album2/blob/main/anglethesis.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/anime-songs/blob/main/%E3%80%8C%E6%AE%8B%E9%85%B7%E3%81%AA%E5%A4%A9%E4%BD%BF%E3%81%AE%E3%83%86%E3%83%BC%E3%82%BC%E3%80%8DMUSIC%20VIDEO%EF%BC%88HDver.%EF%BC%89%E2%A7%B8Zankoku%20na%20Tenshi%20no%20Te-ze%E2%80%9CThe%20Cruel%20Angel's%20Thesis%E2%80%9D%20%5Bo6wtDPVkKqI%5D.mp3?raw=true"
+    },
+    {
+      id:74,
+      name:"Desire",
+      image:"https://github.com/Adornadowilliam2/album2/blob/main/desire.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/anime-songs/blob/main/PELICAN%20FANCLUB%20%E3%80%8E%E3%83%87%E3%82%A3%E3%82%B6%E3%82%A4%E3%82%A2%E3%80%8FMusic%20Video%20%5BK_Q0iY_jKBs%5D.mp3?raw=true"
     }
 
 
