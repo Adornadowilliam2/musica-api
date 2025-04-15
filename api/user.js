@@ -460,6 +460,12 @@ export default function handler(req, res) {
       name:'Survivor',
       image:"https://github.com/Adornadowilliam2/album2/blob/main/gundam.png?raw=true",
       music:'https://github.com/Adornadowilliam2/anime-songs/blob/main/BLUE%20ENCOUNT%20%E3%80%8ESurvivor%E3%80%8FMusic%20Video%20%E3%80%90%E3%80%8C%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%20%E9%89%84%E8%A1%80%E3%81%AE%E3%82%AA%E3%83%AB%E3%83%95%E3%82%A7%E3%83%B3%E3%82%BA%E3%80%8D%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%86%E3%83%BC%E3%83%9E%E3%80%91%20%5B-MnlFslr3Go%5D.mp3?raw=true'
+    },
+    {
+      id:75,
+      name:'Bury the light',
+      image:'https://github.com/Adornadowilliam2/album2/blob/main/bury_the_light.jpeg?raw=true',
+      music:"https://github.com/Adornadowilliam2/anime-songs/blob/main/Bury%20the%20Light%20-%20Vergil's%20battle%20theme%20from%20Devil%20May%20Cry%205%20Special%20Edition%20%5BJrg9KxGNeJY%5D.mp3?raw=true"
     }
 
 
