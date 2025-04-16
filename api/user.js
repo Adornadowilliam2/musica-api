@@ -466,6 +466,12 @@ export default function handler(req, res) {
       name:'Bury the light',
       image:'https://github.com/Adornadowilliam2/album2/blob/main/bury_the_light.jpeg?raw=true',
       music:"https://github.com/Adornadowilliam2/anime-songs/blob/main/Bury%20the%20Light%20-%20Vergil's%20battle%20theme%20from%20Devil%20May%20Cry%205%20Special%20Edition%20%5BJrg9KxGNeJY%5D.mp3?raw=true"
+    },
+    {
+      id:76,
+      name:'Dont stop believing',
+      image:"https://github.com/Adornadowilliam2/album2/blob/main/dont_stop_believing.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/alltime-song/blob/main/Journey%20-%20Don't%20Stop%20Believin'%20(Live%201981%EF%BC%9A%20Escape%20Tour%20-%C2%A02022%20HD%20Remaster)%20%5BVcjzHMhBtf0%5D.mp3?raw=true"
     }
 
 
