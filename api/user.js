@@ -472,6 +472,12 @@ export default function handler(req, res) {
       name:'Dont stop believing',
       image:"https://github.com/Adornadowilliam2/album2/blob/main/dont_stop_believing.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/alltime-song/blob/main/Journey%20-%20Don't%20Stop%20Believin'%20(Live%201981%EF%BC%9A%20Escape%20Tour%20-%C2%A02022%20HD%20Remaster)%20%5BVcjzHMhBtf0%5D.mp3?raw=true"
+    },
+    {
+      id:77,
+      name:"Uni-verse",
+      image:"https://github.com/Adornadowilliam2/album2/blob/main/sss-gridman.pnghttps://github.com/Adornadowilliam2/album2/blob/main/sss-gridman.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/alltime-song/blob/main/%E3%82%AA%E3%83%BC%E3%82%A4%E3%82%B7%E3%83%9E%E3%82%B5%E3%83%A8%E3%82%B7%20-%20uni-verse%20%5BOfficial%20Video%5D%20%5Bm4vjI6InDJM%5D.mp3?raw=true"
     }
 
 
