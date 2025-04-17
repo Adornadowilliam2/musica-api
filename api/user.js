@@ -478,6 +478,18 @@ export default function handler(req, res) {
       name:"Uni-verse",
       image:"https://github.com/Adornadowilliam2/album2/blob/main/sss-gridman.png?raw=true",
       music:"https://github.com/Adornadowilliam2/alltime-song/blob/main/%E3%82%AA%E3%83%BC%E3%82%A4%E3%82%B7%E3%83%9E%E3%82%B5%E3%83%A8%E3%82%B7%20-%20uni-verse%20%5BOfficial%20Video%5D%20%5Bm4vjI6InDJM%5D.mp3?raw=true"
+    },
+    {
+      id:78,
+      name:"Life will change",
+      image:"https://github.com/Adornadowilliam2/album2/blob/main/persona.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/alltime-song/blob/main/Persona%205%20-%20Life%20Will%20Change%20(%E4%B8%AD%E8%8B%B1%E6%AD%8C%E8%A9%9E)%20%5BCGwH6rZk7VM%5D.mp3?raw=true"
+    },
+    {
+      id:79,
+      name:"Last surprise",
+      image:"https://github.com/Adornadowilliam2/album2/blob/main/persona.jpg?raw=true",
+      music:"https://github.com/Adornadowilliam2/alltime-song/blob/main/Last%20Surprise%20%5BZNGqBDRJgvo%5D.mp3?raw=true"
     }
 
 
