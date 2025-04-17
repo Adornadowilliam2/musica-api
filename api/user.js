@@ -490,6 +490,18 @@ export default function handler(req, res) {
       name:"Last surprise",
       image:"https://github.com/Adornadowilliam2/album2/blob/main/persona.jpg?raw=true",
       music:"https://github.com/Adornadowilliam2/alltime-song/blob/main/Last%20Surprise%20%5BZNGqBDRJgvo%5D.mp3?raw=true"
+    },
+    {
+      id:80, 
+      name:'Yorushika',
+      image:"https://github.com/Adornadowilliam2/album2/blob/main/freiren.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/alltime-song/blob/main/%E3%83%A8%E3%83%AB%E3%82%B7%E3%82%AB%20-%20%E6%99%B4%E3%82%8B%EF%BC%88OFFICIAL%20VIDEO%EF%BC%89%20%5BCkvWJNt77mU%5D.mp3?raw=true"
+    },
+    {
+      id:89,
+      name:"Overdose",
+      image:"https://github.com/Adornadowilliam2/album2/blob/main/overdose.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/alltime-song/blob/main/%E3%81%AA%E3%81%A8%E3%82%8A%20-%20Overdose%20%5BH08YWE4CIFQ%5D.mp3?raw=true"
     }
 
 
