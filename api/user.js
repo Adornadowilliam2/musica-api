@@ -476,7 +476,7 @@ export default function handler(req, res) {
     {
       id:77,
       name:"Uni-verse",
-      image:"https://github.com/Adornadowilliam2/album2/blob/main/sss-gridman.pnghttps://github.com/Adornadowilliam2/album2/blob/main/sss-gridman.png?raw=true",
+      image:"https://github.com/Adornadowilliam2/album2/blob/main/sss-gridman.png?raw=true",
       music:"https://github.com/Adornadowilliam2/alltime-song/blob/main/%E3%82%AA%E3%83%BC%E3%82%A4%E3%82%B7%E3%83%9E%E3%82%B5%E3%83%A8%E3%82%B7%20-%20uni-verse%20%5BOfficial%20Video%5D%20%5Bm4vjI6InDJM%5D.mp3?raw=true"
     }
 
