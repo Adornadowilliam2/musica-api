@@ -502,6 +502,12 @@ export default function handler(req, res) {
       name:"Overdose",
       image:"https://github.com/Adornadowilliam2/album2/blob/main/overdose.png?raw=true",
       music:"https://github.com/Adornadowilliam2/alltime-song/blob/main/%E3%81%AA%E3%81%A8%E3%82%8A%20-%20Overdose%20%5BH08YWE4CIFQ%5D.mp3?raw=true"
+    },
+    {
+      id:90,
+      name:'Tonight',
+      image:"https://github.com/Adornadowilliam2/album2/blob/main/tonight.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/alltime-song/blob/main/Tonight%20-%20FM%20Static%20(Lyrics)%20%5By9UPYi1XIgc%5D.mp3?raw=true"
     }
 
 
