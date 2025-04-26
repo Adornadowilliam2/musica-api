@@ -508,8 +508,7 @@ export default function handler(req, res) {
       name:'Tonight',
       image:"https://github.com/Adornadowilliam2/album2/blob/main/tonight.png?raw=true",
       music:"https://github.com/Adornadowilliam2/alltime-song/blob/main/Tonight%20-%20FM%20Static%20(Lyrics)%20%5By9UPYi1XIgc%5D.mp3?raw=true"
-    },
-
+    }
 
 
   ];
