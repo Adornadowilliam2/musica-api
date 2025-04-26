@@ -508,6 +508,18 @@ export default function handler(req, res) {
       name:'Tonight',
       image:"https://github.com/Adornadowilliam2/album2/blob/main/tonight.png?raw=true",
       music:"https://github.com/Adornadowilliam2/alltime-song/blob/main/Tonight%20-%20FM%20Static%20(Lyrics)%20%5By9UPYi1XIgc%5D.mp3?raw=true"
+    },
+    {
+      id:91,
+      name:"Otlum",
+      image:"https://github.com/Adornadowilliam2/album2/blob/main/utlom.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/alltime-song/blob/main/Multo%20by%20Cup%20of%20Joe%20(%20Lyrics%20)%20%5BpNprsjRz1hk%5D.mp3"
+    },
+    {
+      id:92,
+      name:"You're Beautiful",
+      image:"https://github.com/Adornadowilliam2/album2/blob/main/youre_beautiful.png?raw=true",
+      music:"https://github.com/Adornadowilliam2/alltime-song/blob/main/James%20Blunt%20-%20You're%20Beautiful%20(Official%20Music%20Video)%20%5B4K%5D%20%5BoofSnsGkops%5D.mp3?raw=true"
     }
 
 
